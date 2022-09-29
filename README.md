@@ -18,16 +18,16 @@ Main screen
 ![image](https://user-images.githubusercontent.com/49592750/193158151-77136046-b739-41ca-9659-b3c6cf63144b.png)
 
 There are 4 windows in the program:
- 1. Employee card window for entering employee details - first name, last name, social security number, date of birth, address, mobile number, type of employee (selection options).
+ 1. Workers card window for entering worker details - first name, last name, social security number, date of birth, address, mobile number, type of worker (selection options).
     There is a data correctness check for numbers and letters and the amount of characters.
     In this panel you can click the save button and export what we saved to a file.
     You can also return to the forms window or exit from it.
- 2. Employees - Viewing every employee that exists in the cafe and viewing their data.
+ 2. Workers - Viewing every worker that exists in the cafe and viewing their data.
  3. Sorted Workers - sorting workers from the highest salary to the lowest (in descending order).
 
 ![image](https://user-images.githubusercontent.com/49592750/193158174-6fdbec7b-9e1e-4a8b-9b22-df7bed04f716.png)
 
-4. Editing employees - editing the employee's details. Double clicking on the employee you want to change the tabs.
+4. Editing workers - editing the worker's details. Double clicking on the worker you want to change the tabs.
 
 ![image](https://user-images.githubusercontent.com/49592750/193158201-b06bcede-23f5-451f-ac9a-cc67a635b437.png)
 
